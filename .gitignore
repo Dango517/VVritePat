@@ -76,3 +76,4 @@ crashlytics-build.properties
 /build
 
 /[Aa]ssets/SecretFiles/*
+/[Aa]ssets/LocalData/*
